@@ -24,11 +24,11 @@ def get_leagues_data():
     france_ligue = data_clean(france_ligue)
 
     # To save the Dataframes into csv
-    """premier_league.to_csv('Premier_league.csv')
+    premier_league.to_csv('Premier_league.csv')
     calcio.to_csv('calcio.csv')
     laliga.to_csv('laliga.csv')
     bundesliga.to_csv('bundesliga.csv')
-    france_ligue.to_csv('france_ligue.csv')"""
+    france_ligue.to_csv('france_ligue.csv')
 
     return premier_league, calcio, laliga, bundesliga, france_ligue
 
@@ -42,7 +42,6 @@ def data_clean(df):
     df['H2H_Outcome'] = last_game_info.apply(lambda x: x.split('/')[2])
     df['H2H_Goals_Home'] = last_game_info.apply(lambda x: x.split('/')[3])
     df['H2H_Goals_Away'] = last_game_info.apply(lambda x: x.split('/')[4])
-    print("hi")
     # Columns deselection
     df = df.drop(['Votes_for_Home', 'Detail_H2H', 'Votes_for_Draw', 'Votes_for_Away', 'Weekday', 'Day', 'Month'],
                  axis=1)
