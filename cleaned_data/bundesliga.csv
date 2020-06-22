@@ -1,0 +1,235 @@
+,Team_1,Team_2,League_Rank_1,League_Rank_2,Games_played_1,Games_played_2,Points_1,Points_2,Won_1,Draw_1,Lost_1,Won_2,Draw_2,Lost_2,Goals_Scored_1,Goals_Scored_2,Goals_Rec_1,Goal_Rec_2,Goals_Diff_1,Goals_Diff_2,League_type_country,Large_Diff_win,Won_out_of_6,Avrage_FT_Goal,Average_HT_Goal,Results_1,Results_2,H2H_Side,H2H_Outcome,H2H_Goals_Home,H2H_Goals_Away
+20,1899 hoffenheim,bayern munchen,7,2,17,17,25,36,6,7,4,11,3,3,32,36,23,18,9,18,germany,0,0,3.0,1.66,1,3,A,L,1,3
+35,borussia dortmund,hannover 96,1,17,18,18,45,11,14,3,1,2,5,11,45,17,18,36,27,-19,germany,0,4,3.16,1.5,5,1,A,D,0,0
+39,borussia monchengladbach,fc augsburg,3,15,18,18,36,15,11,3,4,3,6,9,37,26,18,31,19,-5,germany,0,0,2.5,1.0,2,0,A,D,1,1
+47,rb leipzig,borussia dortmund,4,1,17,17,31,42,9,4,4,13,3,1,31,44,17,18,14,26,germany,3,0,2.8,2.0,0,1,A,L,1,4
+67,fsv mainz,fc nurnberg,11,18,18,18,24,11,6,6,6,2,5,11,20,15,24,41,-4,-26,germany,0,0,2.5,1.5,2,1,A,D,1,1
+69,werder bremen,eintracht frankfurt,9,5,18,18,25,30,7,4,7,9,3,6,29,37,29,24,0,13,germany,0,0,2.83,1.16,2,2,A,W,2,1
+74,schalke 04,vfl wolfsburg,14,6,17,17,18,28,5,3,9,8,4,5,20,27,24,22,-4,5,germany,0,0,2.16,0.83,2,1,A,L,1,2
+90,fc nurnberg,hertha berlin,18,9,17,17,11,24,2,5,10,6,6,5,14,26,38,27,-24,-1,germany,0,0,2.33,1.0,1,3,A,L,0,1
+95,hertha berlin,schalke 04,7,12,18,18,27,21,7,6,5,6,3,9,29,22,28,25,1,-3,germany,0,0,1.83,0.66,2,2,A,W,2,0
+102,bayer leverkusen,borussia monchengladbach,9,3,17,17,24,33,7,3,7,10,3,4,26,36,29,18,-3,18,germany,5,4,3.5,1.0,0,1,A,W,5,0
+122,sc freiburg,1899 hoffenheim,13,8,18,18,21,25,5,6,7,6,7,5,22,33,28,26,-6,7,germany,0,0,3.0,1.16,2,4,A,L,1,3
+123,vfl wolfsburg,bayer leverkusen,6,11,18,18,28,24,8,4,6,7,3,8,28,26,24,30,4,-4,germany,0,0,3.83,1.33,0,3,A,W,3,1
+127,fc augsburg,fortuna dusseldorf,15,14,17,17,15,18,3,6,8,5,3,9,25,19,29,33,-4,-14,germany,0,4,3.33,1.33,1,2,A,W,2,1
+133,vfb stuttgart,fsv mainz,16,12,17,17,14,21,4,2,11,5,6,6,12,17,35,22,-23,-5,germany,0,4,2.5,0.83,2,3,A,L,0,1
+151,hannover 96,werder bremen,17,10,17,17,11,22,2,5,10,6,4,7,17,28,35,29,-18,-1,germany,0,0,2.83,1.16,0,1,A,D,1,1
+316,sportfreunde lotte,tsv 1860 munchen,13,9,20,20,23,26,5,8,7,6,8,6,20,30,25,23,-5,7,germany,4,0,4.0,1.5,1,1,A,L,1,5
+489,vfl osnabruck,sv meppen,1,16,20,20,41,22,11,8,1,6,4,10,30,26,15,30,15,-4,germany,0,0,2.33,0.66,1,0,A,W,2,0
+619,fsv mainz,bayern munchen,12,4,8,8,9,16,2,3,3,5,1,2,4,15,8,9,-4,6,germany,0,4,3.33,1.83,1,2,H,L,0,2
+623,borussia monchengladbach,fsv mainz,5,10,7,7,14,9,4,2,1,2,3,2,15,4,9,4,6,0,germany,0,0,1.33,0.66,4,0,A,D,0,0
+625,vfb stuttgart,borussia dortmund,17,1,7,7,5,17,1,2,4,5,2,0,6,23,13,8,-7,15,germany,3,5,3.83,2.33,0,4,A,L,0,3
+626,rb leipzig,fc schalke 04,6,15,8,8,15,6,4,3,1,2,0,6,16,5,9,11,7,-6,germany,0,0,2.75,1.25,0,0,H,W,3,1
+627,1899 hoffenheim,vfb stuttgart,9,17,8,8,10,5,3,1,4,1,2,5,14,6,13,17,1,-11,germany,0,0,3.0,1.16,4,0,A,L,0,2
+629,hertha berlin,sc freiburg,6,12,7,7,14,8,4,2,1,2,2,3,12,9,7,13,5,-4,germany,0,0,2.33,0.66,1,1,H,D,0,0
+651,vfl wolfsburg,bayern munchen,9,7,7,7,9,13,2,3,2,4,1,2,10,12,11,8,-1,4,germany,0,5,3.5,1.5,1,3,H,L,1,2
+664,werder bremen,bayer leverkusen,4,13,8,8,17,8,5,2,1,2,2,4,15,9,8,15,7,-6,germany,0,0,2.83,1.33,2,6,H,D,0,0
+679,sc freiburg,borussia monchengladbach,11,2,8,8,9,17,2,3,3,5,2,1,10,19,14,9,-4,10,germany,0,5,2.16,0.66,3,1,A,L,1,3
+688,msv duisburg,fc st pauli,17,6,9,9,5,16,1,2,6,5,1,3,9,15,18,15,-9,0,germany,0,0,2.5,0.66,0,1,H,W,2,0
+692,schalke 04,werder bremen,15,4,7,7,6,14,2,0,5,4,2,1,5,13,9,8,-4,5,germany,0,0,3.33,1.66,0,2,H,L,1,2
+693,fc ingolstadt 04,union berlin,17,4,7,7,5,13,1,2,4,3,4,0,7,11,15,5,-8,6,germany,0,0,2.83,1.0,1,2,A,W,2,1
+703,vfl bochum,ssv jahn regensburg,9,10,10,10,15,15,4,3,3,4,3,3,16,17,10,14,6,3,germany,0,0,1.5,0.25,3,3,H,D,1,1
+708,hannover 96,fc augsburg,15,10,8,8,6,9,1,3,4,2,3,3,10,14,16,13,-6,1,germany,0,0,2.5,1.5,1,2,H,L,1,3
+741,fc st pauli,holstein kiel,4,13,10,10,19,13,6,1,3,3,4,3,16,15,15,15,1,0,germany,0,4,3.33,2.0,0,1,H,W,3,2
+774,union berlin,dynamo dresden,5,10,10,10,18,14,4,6,0,4,2,4,14,13,7,11,7,2,germany,0,0,1.66,0.66,0,0,A,W,1,0
+778,sv darmstadt 98,greuther furth,14,2,10,10,11,19,3,2,5,5,4,1,12,16,16,10,-4,6,germany,0,0,1.6,0.4,2,0,A,D,1,1
+823,fc ingolstadt 04,msv duisburg,18,17,10,10,5,5,1,2,7,1,2,7,9,9,23,19,-14,-10,germany,0,0,2.66,1.0,1,1,A,L,1,2
+858,hamburger sv,vfl bochum,4,8,9,9,17,14,5,2,2,4,2,3,12,16,11,10,1,6,germany,0,4,2.5,1.16,0,0,A,W,2,1
+866,dynamo dresden,erzgebirge aue,9,13,9,9,13,10,4,1,4,3,1,5,12,10,10,13,2,-3,germany,0,0,2.66,1.5,1,1,A,D,0,0
+867,sv sandhausen,fc ingolstadt 04,17,18,9,9,5,5,1,2,6,1,2,6,5,9,14,19,-9,-10,germany,0,0,2.0,1.16,4,0,A,D,0,0
+947,sc paderborn,union berlin,7,3,9,9,15,17,4,3,2,4,5,0,19,14,15,7,4,7,germany,4,0,2.33,1.33,0,0,H,L,0,4
+993,vfr aalen,kaiserslautern,18,11,12,12,12,17,3,3,6,4,5,3,14,18,18,16,-4,2,germany,0,0,2.66,1.33,1,2,A,L,0,1
+1027,sc verl,viktoria koln 1904,11,1,15,15,18,36,3,9,3,11,3,1,18,31,18,12,0,19,germany,0,5,3.16,1.0,2,3,H,L,2,3
+1040,sv werder bremen,1 ffc turbine potsdam,10,8,6,6,4,8,1,1,4,2,2,2,3,8,11,6,-8,2,germany,4,0,4.25,2.0,0,4,H,L,1,5
+1097,hallescher fc,hansa rostock,7,11,10,10,16,14,5,1,4,4,2,4,12,13,10,18,2,-5,germany,0,4,2.5,0.83,0,1,A,L,2,4
+1127,tsv 1860 munchen,fc wurzburger kickers,10,6,9,9,12,16,3,3,3,5,1,3,17,17,11,11,6,6,germany,0,0,3.25,0.25,1,1,H,W,2,1
+1147,borussia dortmund,bayern munchen,1,3,10,10,24,20,7,3,0,6,2,2,30,18,10,11,20,7,germany,6,4,6.0,2.83,3,2,A,L,0,6
+1154,borussia monchengladbach,hannover 96,3,16,11,11,23,9,7,2,2,2,3,6,26,14,13,22,13,-8,germany,0,5,2.33,0.5,4,1,A,W,1,0
+1155,rb leipzig,bayer 04 leverkusen,4,13,10,10,19,11,5,4,1,3,2,5,19,16,9,21,10,-5,germany,3,0,3.75,1.75,3,0,H,L,1,4
+1167,fsv mainz,borussia dortmund,9,1,11,11,15,27,4,3,4,8,3,0,10,33,12,12,-2,21,germany,0,4,2.33,1.16,1,2,A,W,2,1
+1184,eintracht frankfurt,schalke 04,6,14,10,10,17,10,5,2,3,3,1,6,23,8,13,12,10,-4,germany,0,0,1.33,0.66,3,0,A,L,0,1
+1202,vfl wolfsburg,rb leipzig,12,3,11,11,12,22,3,3,5,6,4,1,15,22,17,9,-2,13,germany,3,0,2.66,1.66,1,0,A,L,1,4
+1212,hannover 96,vfl wolfsburg,16,11,10,10,6,12,1,3,6,3,3,4,12,14,21,15,-9,-1,germany,0,4,2.0,0.5,2,1,H,L,0,2
+1216,schalke 04,fc nurnberg,14,15,11,11,10,10,3,1,7,2,4,5,8,11,15,24,-7,-13,germany,0,0,3.16,1.5,5,2,A,W,3,2
+1218,werder bremen,borussia monchengladbach,6,2,10,10,17,20,5,2,3,6,2,2,18,23,16,12,2,11,germany,0,4,4.16,2.0,1,3,A,D,2,2
+1219,fortuna dusseldorf,hertha berlin,17,8,10,10,5,16,1,2,7,4,4,2,6,15,24,13,-18,2,germany,0,0,4.0,1.75,4,1,H,D,2,2
+1224,fc augsburg,eintracht frankfurt,11,2,12,12,13,23,3,4,5,7,2,3,19,27,19,13,0,14,germany,3,0,2.33,1.0,1,3,H,W,3,0
+1242,hertha bsc,rb leipzig,7,6,9,9,16,16,4,4,1,4,4,1,15,16,10,9,5,7,germany,4,0,5.0,2.0,0,3,H,L,2,6
+1246,hertha berlin,1899 hoffenheim,8,6,12,12,16,22,4,4,4,7,1,4,17,26,19,16,-2,10,germany,0,0,2.16,1.33,3,3,H,D,1,1
+1267,fsv mainz,werder bremen,15,6,9,9,9,17,2,3,4,5,2,2,5,17,10,14,-5,3,germany,0,0,3.0,2.0,2,1,H,L,1,2
+1269,bayer leverkusen,1899 hoffenheim,12,6,10,10,11,16,3,2,5,5,1,4,16,21,20,14,-4,7,germany,3,0,3.0,1.0,1,4,A,W,4,1
+1290,sc freiburg,werder bremen,13,7,11,11,13,17,3,4,4,5,2,4,15,19,19,19,-4,0,germany,0,0,3.0,1.5,1,1,A,L,0,1
+1297,fortuna dusseldorf,fsv mainz,17,10,12,12,9,15,2,3,7,4,3,5,13,11,28,14,-15,-3,germany,0,0,1.5,1.0,0,1,H,D,1,1
+1307,vfl bochum,sv darmstadt 98,11,12,12,12,17,17,4,5,3,5,2,5,21,17,15,17,6,0,germany,0,0,2.6,0.8,1,0,H,W,2,1
+1313,sc freiburg,fsv mainz,10,12,10,10,13,12,3,4,3,3,3,4,14,7,16,11,-2,-4,germany,0,4,3.5,1.16,1,3,A,L,0,2
+1314,fc nurnberg,vfb stuttgart,15,18,10,10,10,5,2,4,4,1,2,7,11,6,22,24,-11,-18,germany,0,0,2.83,1.33,0,2,H,L,2,3
+1320,schalke 04,hannover 96,13,16,10,10,10,6,3,1,6,1,3,6,7,12,12,20,-5,-8,germany,0,0,2.66,1.0,3,1,H,D,1,1
+1343,hamburger sv,fc koln,3,2,11,11,21,21,6,3,2,6,3,2,13,24,11,16,2,8,germany,0,0,2.66,1.16,1,0,H,L,0,2
+1386,fc koln,dynamo dresden,2,9,13,13,24,18,7,3,3,5,3,5,29,16,17,17,12,-1,germany,0,0,3.0,0.83,8,1,H,W,3,1
+1435,dynamo dresden,sv sandhausen,11,16,11,11,15,9,4,3,4,2,3,6,13,12,11,17,2,-5,germany,0,0,1.5,0.66,3,1,A,L,0,1
+1445,vfl bochum,erzgebirge aue,7,13,14,14,20,17,5,5,4,5,2,7,22,14,16,18,6,-4,germany,0,0,3.5,2.33,2,1,A,L,1,2
+1446,sv darmstadt 98,1 fc koln,12,2,13,13,17,24,5,2,6,7,3,3,17,32,18,18,-1,14,germany,5,0,3.5,1.75,0,3,H,L,1,6
+1447,arminia bielefeld,msv duisburg,14,16,13,13,13,10,3,4,6,2,4,7,16,12,21,20,-5,-8,germany,3,0,4.0,2.16,0,1,H,L,0,3
+1468,sv sandhausen,msv duisburg,16,17,12,12,9,9,2,3,7,2,3,7,13,12,20,20,-7,-8,germany,0,4,2.5,0.83,0,0,A,W,2,0
+1538,wehen wiesbaden,carl zeiss jena,8,18,14,14,23,14,7,2,5,3,5,6,30,14,20,22,10,-8,germany,0,0,2.16,0.5,2,3,A,L,3,4
+1552,fc st pauli,fc heidenheim,2,6,12,12,22,19,7,1,4,5,4,3,18,19,17,13,1,6,germany,0,0,2.16,0.83,1,1,A,L,1,3
+1584,sc paderborn,arminia bielefeld,7,14,14,14,21,13,5,6,3,3,4,7,31,16,25,22,6,-6,germany,0,0,3.5,1.0,2,2,A,D,1,1
+1625,holstein kiel,sv sandhausen,6,16,14,14,21,10,5,6,3,2,4,8,23,13,21,21,2,-8,germany,0,0,2.5,0.5,2,1,A,L,1,3
+1637,alemannia aachen,viktoria koln 1904,6,1,18,18,26,39,6,8,4,11,6,1,26,35,19,16,7,19,germany,0,4,3.16,1.66,1,1,A,L,1,2
+1710,arminia bielefeld,fc st pauli,14,5,12,12,15,19,4,3,5,6,1,5,15,16,18,17,-3,-1,germany,0,0,1.83,0.5,1,2,A,L,0,1
+1722,holstein kiel,fc ingolstadt 04,11,18,11,11,16,6,4,4,3,1,3,7,16,10,15,24,1,-14,germany,4,0,2.75,0.75,2,2,A,W,5,1
+1770,bayern munchen am,fc pipinsried,2,17,17,20,37,18,11,4,2,4,6,10,35,30,15,42,20,-12,germany,0,0,3.33,1.0,1,1,A,W,3,1
+1781,fc oberneuland,blumenthaler sv,1,12,15,15,42,14,14,0,1,4,2,9,67,30,11,42,56,-12,germany,6,0,3.75,1.75,3,1,A,W,6,0
+1828,vfl wolfsburg,sv werder bremen,1,3,17,17,40,30,12,4,1,9,3,5,46,28,10,22,36,6,germany,3,5,3.6,2.2,2,1,A,W,3,0
+1846,1 fc schweinfurt 05,sv schalding-heining,3,7,18,19,32,29,8,8,2,8,5,6,37,22,23,22,14,0,germany,0,4,4.0,2.0,1,3,H,L,1,3
+1847,sc eltersdorf,djk ammerthal,5,8,20,20,35,28,11,2,7,8,4,8,33,32,27,28,6,4,germany,0,0,3.66,2.16,2,0,H,W,2,0
+1849,leher ts,bremer sv,9,1,14,14,17,42,4,5,5,14,0,0,26,55,37,7,-11,48,germany,4,5,6.0,2.5,0,4,H,L,0,4
+1866,fc heidenheim,erzgebirge aue,8,13,12,12,17,15,4,5,3,4,3,5,18,12,13,14,5,-2,germany,0,0,2.5,0.66,1,0,A,D,1,1
+1896,borussia dortmund,werder bremen,1,9,14,14,36,21,11,3,0,6,3,5,39,24,14,23,25,1,germany,0,4,4.0,1.66,2,1,A,D,1,1
+1917,borussia dortmund,borussia monchengladbach,1,2,16,16,39,33,12,3,1,10,3,3,42,35,17,16,25,19,germany,0,6,4.33,2.16,2,1,A,W,1,0
+1920,eintracht frankfurt,vfl wolfsburg,4,10,12,12,23,15,7,2,3,4,3,5,29,16,14,17,15,-1,germany,0,4,2.66,1.33,1,2,A,W,3,1
+1925,eintracht frankfurt,bayern munchen,5,3,16,16,27,33,8,3,5,10,3,3,34,33,20,18,14,15,germany,5,4,3.66,1.5,0,3,H,L,0,5
+1928,hannover 96,bayern munchen,17,3,14,14,10,27,2,4,8,8,3,3,16,28,29,18,-13,10,germany,3,6,3.33,1.66,0,4,H,L,0,3
+1931,schalke 04,borussia dortmund,12,1,13,13,14,33,4,2,7,10,3,0,14,37,18,13,-4,24,germany,0,-4,3.5,1.16,1,2,H,W,2,0
+1940,borussia monchengladbach,vfb stuttgart,3,15,13,13,26,11,8,2,3,3,2,8,30,9,16,26,14,-17,germany,0,5,2.33,1.0,3,0,A,L,0,1
+1941,werder bremen,fortuna dusseldorf,9,18,13,13,18,9,5,3,5,2,3,8,21,13,22,29,-1,-16,germany,0,0,3.5,1.5,3,1,A,D,2,2
+1947,rb leipzig,1 fsv mainz,4,10,14,14,25,19,7,4,3,5,4,5,24,13,13,15,11,-2,germany,3,0,4.0,1.75,4,1,A,L,0,3
+1961,fc augsburg,vfl wolfsburg,15,6,16,16,15,25,3,6,7,7,4,5,23,24,26,20,-3,4,germany,0,0,1.66,0.83,2,3,A,D,0,0
+1973,1899 hoffenheim,fsv mainz,7,12,16,16,24,20,6,6,4,5,5,6,31,16,22,21,9,-5,germany,0,4,5.33,2.66,1,1,H,W,4,2
+1977,fc bayern munchen,rb leipzig,3,4,15,15,30,28,9,3,3,8,4,3,32,28,18,14,14,14,germany,0,0,5.6,2.0,1,0,A,L,1,2
+1979,fc nurnberg,vfl wolfsburg,15,9,14,14,11,19,2,5,7,5,4,5,14,20,33,20,-19,0,germany,0,0,3.0,1.5,0,2,H,L,0,2
+1993,vfl wolfsburg,vfb stuttgart,8,15,15,15,22,14,6,4,5,4,2,9,22,11,20,30,2,-19,germany,0,0,3.16,1.83,2,0,H,D,1,1
+1994,hertha berlin,fc augsburg,7,14,15,15,23,14,6,5,4,3,5,7,23,21,22,24,1,-3,germany,0,-4,1.5,0.5,2,2,H,D,2,2
+2006,rb leipzig,sv werder bremen,4,9,16,16,28,22,8,4,4,6,4,6,28,26,15,26,13,0,germany,0,0,2.8,1.0,3,2,A,D,1,1
+2007,fc koln,vfl bochum,2,8,17,17,36,24,11,3,3,6,6,5,45,25,19,21,26,4,germany,0,4,2.5,1.0,2,3,A,W,2,0
+2012,bayern munchen,fc nurnberg,4,15,13,13,24,11,7,3,3,2,5,6,25,14,18,30,7,-16,germany,0,5,2.5,1.33,3,0,A,W,2,0
+2013,lub freiburg - rb leipzig,spor,13,3,13,13,14,25,3,5,5,7,4,2,16,24,22,10,-6,14,germany,0,4,3.66,1.5,3,0,H,W,2,1
+2016,rb leipzig,borussia monchengladbach,3,2,13,13,25,26,7,4,2,8,2,3,24,30,10,16,14,14,germany,0,0,2.5,1.25,2,0,A,W,1,0
+2022,eintracht frankfurt,bayer leverkusen,5,11,14,14,23,18,7,2,5,5,3,6,30,20,17,25,13,-5,germany,3,5,3.16,1.0,2,1,A,L,1,4
+2024,1899 hoffenheim,borussia monchengladbach,7,2,14,14,22,29,6,4,4,9,2,3,30,33,21,16,9,17,germany,0,0,5.0,2.16,0,0,A,D,3,3
+2033,bayer leverkusen,fc augsburg,11,14,13,13,15,13,4,3,6,3,4,6,19,20,25,22,-6,-2,germany,0,-5,2.33,1.0,1,0,H,D,0,0
+2044,hertha berlin,eintracht frankfurt,8,5,13,13,20,23,5,5,3,7,2,4,21,30,20,16,1,14,germany,3,0,3.0,1.0,1,0,A,W,3,0
+2056,fsv mainz,eintracht frankfurt,10,5,15,15,19,26,5,4,6,8,2,5,14,32,19,18,-5,14,germany,3,4,3.33,1.5,2,2,A,L,0,3
+2059,vfb stuttgart,hertha berlin,15,6,14,14,11,23,3,2,9,6,5,3,9,22,29,20,-20,2,germany,0,0,2.16,0.83,2,1,H,W,1,0
+2060,fc augsburg,schalke 04,14,13,14,14,13,14,3,4,7,4,2,8,20,15,23,20,-3,-5,germany,0,0,3.0,1.33,1,1,H,L,1,2
+2062,fsv mainz,hannover 96,10,17,13,13,18,9,5,3,5,2,3,8,12,15,14,28,-2,-13,germany,0,0,2.0,1.33,1,1,A,L,2,3
+2065,vfl wolfsburg,1899 hoffenheim,8,6,13,13,18,21,5,3,5,6,3,4,18,28,18,19,0,9,germany,3,0,2.5,1.0,2,2,A,L,0,3
+2079,bayer leverkusen,hertha berlin,10,8,16,16,21,24,6,3,7,6,6,4,23,25,28,24,-5,1,germany,0,0,3.83,2.33,3,1,H,L,0,2
+2098,sc freiburg,hannover 96,12,18,15,15,17,10,4,5,6,2,4,9,19,16,24,33,-5,-17,germany,0,0,3.33,1.0,1,1,A,L,1,2
+2099,werder bremen,1899 hoffenheim,9,8,15,15,21,23,6,3,6,6,5,4,25,30,25,21,0,9,germany,0,0,2.66,1.33,1,1,H,D,1,1
+2106,vfb stuttgart,fc augsburg,15,13,13,13,11,13,3,2,8,3,4,6,9,20,26,22,-17,-2,germany,0,0,1.66,1.33,1,0,H,W,1,0
+2116,hannover 96,fortuna dusseldorf,17,15,16,16,11,15,2,5,9,4,3,9,17,18,34,33,-17,-15,germany,0,0,3.6,2.0,0,1,H,W,1,0
+2123,msv duisburg,hamburger sv,15,1,16,16,13,34,3,4,9,10,4,2,14,22,28,15,-14,7,germany,0,0,1.5,1.25,1,2,A,W,1,0
+2130,ssv jahn regensburg,fc koln,10,2,15,15,22,30,5,7,3,9,3,3,26,39,22,18,4,21,germany,0,0,4.0,1.0,1,3,A,L,1,2
+2145,fc nurnberg,sc freiburg,18,12,16,16,11,18,2,5,9,4,6,6,14,20,37,25,-23,-5,germany,0,4,4.16,1.83,0,1,H,W,2,1
+2148,schalke 04,bayer leverkusen,14,11,15,15,15,18,4,3,8,5,3,7,16,21,21,27,-5,-6,germany,0,0,2.83,1.16,1,2,A,W,2,0
+2157,holstein kiel,arminia bielefeld,5,14,16,16,27,15,7,6,3,3,6,7,30,19,22,25,8,-6,germany,0,0,2.5,1.5,1,2,A,D,1,1
+2188,sv sandhausen,greuther furth,16,10,17,17,12,23,2,6,9,6,5,6,18,21,27,31,-9,-10,germany,0,0,2.5,0.83,0,0,A,L,1,3
+2198,vfl bochum,fc st pauli,7,6,15,15,24,25,6,6,3,7,4,4,24,21,16,20,8,1,germany,0,4,2.33,1.0,1,3,A,L,1,2
+2221,vfb stuttgart,schalke 04,16,14,16,16,14,15,4,2,10,4,3,9,11,17,32,23,-21,-6,germany,0,5,3.0,1.66,1,3,H,L,0,2
+2231,union berlin,vfl bochum,3,7,16,16,28,24,6,10,0,6,6,4,25,25,12,19,13,6,germany,0,0,2.66,1.0,2,0,H,W,3,1
+2236,fortuna dusseldorf,sc freiburg,18,12,14,14,9,17,2,3,9,4,5,5,14,19,32,22,-18,-3,germany,0,0,1.75,1.25,2,0,A,W,2,1
+2273,msv duisburg,dynamo dresden,16,11,17,17,13,22,3,4,10,6,4,7,15,20,30,26,-15,-6,germany,0,0,1.0,0.33,1,3,A,L,0,1
+2274,holstein kiel,hamburger sv,6,1,17,17,27,37,7,6,4,11,4,2,31,24,24,16,7,8,germany,3,0,5.33,1.33,3,1,A,W,3,0
+2275,erzgebirge aue,union berlin,12,4,17,17,19,31,5,4,8,7,10,0,22,27,23,12,-1,15,germany,0,0,2.0,0.5,3,0,A,L,0,1
+2309,bayern munchen,borussia monchengladbach,2,12,10,10,23,1,7,2,1,0,1,9,29,6,13,51,16,-45,germany,3,0,2.83,1.66,9,0,H,L,0,3
+2351,sc paderborn,dynamo dresden,9,11,16,16,22,22,5,7,4,6,4,6,33,20,28,23,5,-3,germany,0,0,3.5,1.83,3,0,H,W,2,1
+2403,union berlin,sv darmstadt 98,3,12,15,15,25,18,5,10,0,5,3,7,21,17,10,21,11,-4,germany,0,0,4.25,1.5,3,1,A,L,1,3
+2422,sc paderborn 07,sv darmstadt 98,9,13,17,17,25,19,6,7,4,5,4,8,36,21,28,27,8,-6,germany,0,0,1.5,0.0,6,2,A,L,0,1
+2452,hansa rostock,vfr aalen,8,19,18,18,26,16,7,5,6,3,7,8,26,22,27,29,-1,-7,germany,0,0,1.83,0.83,1,1,A,L,0,1
+2500,greuther furth,erzgebirge aue,8,13,15,15,23,15,6,5,4,4,3,8,21,15,24,21,-3,-6,germany,0,0,2.0,0.66,0,5,A,L,1,2
+2501,sv darmstadt 98,fc ingolstadt 04,12,18,15,15,17,8,5,2,8,1,5,9,18,14,24,31,-6,-17,germany,0,4,2.83,1.0,1,1,H,D,1,1
+2518,sv sandhausen,fc heidenheim,16,11,15,15,13,20,3,4,8,5,5,5,15,21,22,20,-7,1,germany,3,0,2.33,1.5,1,2,A,L,0,3
+2597,arminia bielefeld,fc heidenheim,14,6,17,17,18,27,4,6,7,7,6,4,21,28,26,22,-5,6,germany,0,-4,3.33,0.83,1,2,A,D,1,1
+2598,fc ingolstadt 04,ssv jahn regensburg,18,10,17,17,10,23,1,7,9,5,8,4,16,29,33,27,-17,2,germany,0,0,4.5,1.83,1,2,A,L,1,2
+2629,erzgebirge aue,sv darmstadt 98,12,13,17,17,19,19,5,4,8,5,4,8,20,19,21,25,-1,-6,germany,0,0,1.25,0.5,2,2,A,L,0,1
+2630,sv sandhausen,ssv jahn regensburg,16,9,17,17,12,23,2,6,9,5,8,4,17,28,26,26,-9,2,germany,0,0,3.33,2.16,2,2,A,L,1,2
+2631,fc ingolstadt 04,fc heidenheim,18,6,17,17,10,27,1,7,9,7,6,4,15,27,32,21,-17,6,germany,0,6,2.83,1.0,1,1,A,W,2,1
+2710,vfl osnabruck,wehen wiesbaden,1,7,17,17,34,27,9,7,1,8,3,6,25,34,12,23,13,11,germany,4,0,3.33,1.83,2,1,A,L,1,5
+2711,karlsruher sc,preuen munster,2,6,17,17,32,29,9,5,3,9,2,6,25,28,19,20,6,8,germany,3,0,2.75,1.0,5,0,H,W,3,0
+2722,1 ffc turbine potsdam,vfl wolfsburg,3,1,10,10,22,30,7,1,2,10,0,0,32,48,7,2,25,46,germany,0,0,3.5,1.33,1,1,H,L,0,1
+2728,werder bremen,sc freiburg,11,8,10,10,4,11,1,1,8,3,2,5,6,16,24,17,-18,-1,germany,0,0,3.16,1.5,0,3,A,D,1,1
+2733,hansa rostock,vfl osnabruck,8,1,16,16,25,33,7,4,5,9,6,1,24,24,24,11,0,13,germany,0,0,1.83,0.66,1,1,A,D,1,1
+2745,msv duisburg,holstein kiel,15,9,15,15,14,22,3,5,7,5,7,3,13,24,20,22,-7,2,germany,5,4,2.66,1.5,0,4,A,L,0,5
+2756,fv illertissen,bayern munchen am,11,2,21,18,26,38,7,5,9,11,5,2,30,36,38,16,-8,20,germany,0,0,1.83,1.5,0,2,A,L,0,2
+2786,borussia dortmund,fsv mainz,4,14,34,34,55,36,15,10,9,9,9,16,64,38,47,52,17,-14,germany,0,5,2.83,0.83,1,2,H,L,0,2
+2801,bayern munchen,vfb stuttgart,1,7,34,34,84,51,27,3,4,15,6,13,92,36,28,36,64,0,germany,0,6,2.33,1.16,1,4,A,W,1,0
+2844,fc augsburg,schalke 04,12,2,34,34,41,63,10,11,13,18,9,7,43,53,46,37,-3,16,germany,0,0,3.0,1.33,1,2,A,W,2,1
+2875,schalke 04,eintracht frankfurt,2,8,34,34,63,49,18,9,7,14,7,13,53,45,37,45,16,0,germany,0,0,1.5,0.5,1,0,H,L,0,1
+2877,hertha bsc,rb leipzig,10,6,34,34,43,53,10,13,11,15,8,11,43,57,46,53,-3,4,germany,0,0,4.0,1.33,2,6,H,L,2,3
+2887,rb leipzig,vfl wolfsburg,6,16,34,34,53,33,15,8,11,6,15,13,57,36,53,48,4,-12,germany,3,0,2.66,1.66,4,1,H,W,4,1
+3002,bayer leverkusen,hannover 96,5,13,34,34,55,39,15,10,9,10,9,15,58,44,44,54,14,-10,germany,0,4,3.66,1.83,3,2,H,D,4,4
+3018,hannover 96,hertha berlin,13,10,34,34,39,43,10,9,15,10,13,11,44,43,54,46,-10,-3,germany,0,0,3.16,1.0,3,1,A,L,1,3
+3111,1899 hoffenheim,borussia dortmund,3,4,34,34,55,55,15,10,9,15,10,9,66,64,48,47,18,17,germany,0,0,3.0,1.5,3,1,A,L,1,2
+3133,werder bremen,bayer leverkusen,11,5,34,34,42,55,10,12,12,15,10,9,37,58,40,44,-3,14,germany,0,0,3.5,1.83,0,0,A,L,2,4
+3255,fsv mainz,werder bremen,14,11,34,34,36,42,9,9,16,10,12,12,38,37,52,40,-14,-3,germany,0,0,2.5,1.66,1,2,A,D,2,2
+3261,sc freiburg,fc augsburg,15,12,34,34,36,41,8,12,14,10,11,13,32,43,56,46,-24,-3,germany,0,0,3.0,1.16,2,0,H,D,3,3
+3303,vfb stuttgart,1899 hoffenheim,7,3,34,34,51,55,15,6,13,15,10,9,36,66,36,48,0,18,germany,0,0,3.0,1.16,2,0,A,L,0,2
+3399,vfr aalen,wehen wiesbaden,17,4,1,1,0,3,0,0,1,1,0,0,1,2,2,1,-1,1,germany,0,0,2.0,0.66,1,2,A,W,2,1
+3508,sportfreunde lotte,sv meppen,12,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,germany,0,0,3.5,1.0,0,0,H,W,2,1
+3525,vfl osnabruck,fc wurzburger kickers,5,16,1,1,3,0,1,0,0,0,0,1,2,1,1,2,1,-1,germany,0,0,1.8,0.8,2,1,A,L,1,2
+3634,borussia dortmund,rb leipzig,10,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,germany,0,0,2.25,1.5,4,1,H,D,1,1
+3655,fsv mainz,vfb stuttgart,12,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,germany,0,0,2.66,0.83,1,0,H,W,3,2
+3657,werder bremen,hannover 96,17,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,germany,0,0,3.33,1.5,1,1,A,L,1,2
+3658,sc freiburg,eintracht frankfurt,14,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,germany,0,0,2.0,1.0,0,2,A,D,1,1
+3715,dynamo dresden,msv duisburg,11,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,germany,0,0,1.5,0.5,1,0,H,W,2,0
+3742,union berlin,erzgebirge aue,7,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,germany,0,0,2.33,0.5,1,0,H,D,0,0
+3775,vfl bochum,sv sandhausen,10,18,2,2,3,0,1,0,1,0,0,2,2,1,2,6,0,-5,germany,0,0,3.0,1.5,1,0,H,L,2,3
+3776,sv darmstadt 98,msv duisburg,12,17,2,2,3,0,1,0,1,0,0,2,1,0,2,3,-1,-3,germany,0,0,2.75,1.75,3,0,H,L,1,2
+3888,fc carl zeiss jena,hallescher fc,3,20,2,2,6,0,2,0,0,0,0,2,5,1,3,4,2,-3,germany,0,0,2.5,0.5,0,3,H,W,2,1
+3889,fortuna koln,karlsruher sc,12,13,2,2,3,2,1,0,1,0,2,0,3,2,5,2,-2,0,germany,0,0,2.5,1.5,0,1,H,W,1,0
+3890,vfr aalen,fc wurzburger kickers,15,19,2,2,1,0,0,1,1,0,0,2,1,1,2,4,-1,-3,germany,0,0,3.4,1.2,3,2,H,D,2,2
+3908,sc paderborn,vfl bochum,10,5,3,3,4,6,1,1,1,2,0,1,4,3,3,2,1,1,germany,0,4,3.66,1.5,2,2,H,W,2,0
+3918,ssv jahn regensburg,holstein kiel,12,6,2,2,3,4,1,0,1,1,1,0,2,4,3,1,-1,3,germany,0,5,2.33,1.16,0,0,A,D,1,1
+3981,sportfreunde lotte,sg sonnenhof groaspach,19,17,2,2,1,1,0,1,1,0,1,1,1,3,5,4,-4,-1,germany,0,0,2.25,1.5,0,2,H,D,1,1
+3982,hansa rostock,wehen wiesbaden,13,14,2,2,3,3,1,0,1,1,0,1,2,2,3,3,-1,-1,germany,0,0,2.16,0.83,3,2,A,L,0,2
+3991,wehen wiesbaden,energie cottbus,6,2,2,2,4,4,1,1,0,1,1,0,2,3,1,0,1,3,germany,0,0,2.25,1.25,0,2,H,D,0,0
+4040,wehen wiesbaden,unterhaching,14,3,4,4,4,8,1,1,2,2,2,0,7,7,9,4,-2,3,germany,0,0,2.66,1.33,1,2,A,W,1,0
+4102,fsv frankfurt 1899,sv waldhof mannheim,11,14,3,3,4,3,1,1,1,2,0,1,4,6,2,4,2,2,germany,0,0,1.5,0.5,1,5,H,L,0,1
+4125,arminia bielefeld,dynamo dresden,11,7,1,1,1,3,0,1,0,1,0,0,1,1,1,0,0,1,germany,0,0,2.5,0.5,2,1,H,L,2,3
+4167,schalke 04,bayern munchen,17,1,4,4,0,12,0,0,4,4,0,0,2,11,8,2,-6,9,germany,0,5,2.66,1.66,0,2,A,L,1,2
+4190,bayern munchen,bayer leverkusen,2,16,2,2,6,0,2,0,0,0,0,2,6,1,1,5,5,-4,germany,4,4,3.16,1.33,3,1,A,W,6,2
+4201,vfb stuttgart,bayern munchen,15,7,1,1,0,3,0,0,1,1,0,0,0,3,1,1,-1,2,germany,3,5,3.0,1.66,0,3,H,L,1,4
+4211,bayer leverkusen,borussia dortmund,11,3,5,5,6,11,2,0,3,3,2,0,5,15,9,3,-4,12,germany,4,4,3.33,1.0,2,4,A,L,0,4
+4216,schalke 04,hertha berlin,13,9,1,1,0,3,0,0,1,1,0,0,1,1,2,0,-1,1,germany,0,4,2.0,0.66,0,2,H,W,1,0
+4224,eintracht frankfurt,rb leipzig,14,13,3,3,3,4,1,0,2,1,1,1,4,5,5,7,-1,-2,germany,0,0,3.25,1.75,1,1,H,W,2,1
+4227,1899 hoffenheim,borussia dortmund,11,2,3,3,3,7,1,0,2,2,1,0,5,7,6,2,-1,5,germany,0,0,3.33,1.33,1,1,H,W,3,1
+4229,vfb stuttgart,fortuna dusseldorf,16,9,3,3,1,4,0,1,2,1,1,1,3,4,7,4,-4,0,germany,0,0,1.75,1.0,0,0,H,W,2,0
+4233,1899 hoffenheim,sc freiburg,15,17,1,1,0,0,0,0,1,0,0,1,1,0,3,2,-2,-2,germany,0,-4,3.33,1.5,3,1,H,D,1,1
+4243,schalke 04,fsv mainz,18,7,5,5,0,8,0,0,5,2,2,1,2,4,9,3,-7,1,germany,0,5,2.16,0.83,1,0,A,W,1,0
+4257,bayer leverkusen,fsv mainz,17,5,3,3,0,7,0,0,3,2,1,0,2,4,8,2,-6,2,germany,0,0,3.0,1.5,1,0,H,W,2,0
+4260,eintracht frankfurt,hannover 96,16,18,5,5,4,2,1,1,3,0,2,3,6,4,9,9,-3,-5,germany,0,5,2.5,0.83,4,1,H,W,1,0
+4271,bayer leverkusen,vfl wolfsburg,16,6,1,1,0,3,0,0,1,1,0,0,0,2,2,1,-2,1,germany,0,0,3.66,1.33,1,3,H,L,1,2
+4278,vfb stuttgart,werder bremen,17,4,5,5,2,11,0,2,3,3,2,0,3,10,9,6,-6,4,germany,0,0,3.33,1.5,2,1,H,W,2,0
+4281,bayern munchen,fc augsburg,1,11,4,4,12,4,4,0,0,1,1,2,11,6,2,7,9,-1,germany,3,6,4.33,2.0,1,1,A,W,4,1
+4299,rb leipzig,hannover 96,14,11,2,2,1,2,0,1,1,0,2,0,2,1,5,1,-3,0,germany,0,0,4.0,0.5,3,2,H,W,3,2
+4307,fc augsburg,sc freiburg,13,11,5,5,5,7,1,2,2,2,1,2,7,8,8,9,-1,-1,germany,0,0,3.0,1.0,4,1,A,L,0,2
+4312,greuther furth,hamburger sv,4,3,7,7,12,13,3,3,1,4,1,2,11,10,7,10,4,0,germany,0,-4,1.0,0.66,0,0,H,D,0,0
+4313,rb leipzig,vfb stuttgart,8,17,5,5,8,2,2,2,1,0,2,3,8,3,8,9,0,-6,germany,0,0,1.0,0.66,2,0,H,W,2,0
+4317,fc augsburg,werder bremen,9,7,3,3,4,5,1,1,1,1,2,0,4,4,4,3,0,1,germany,0,4,3.5,1.33,2,3,H,L,1,3
+4328,eintracht frankfurt,werder bremen,4,10,1,1,3,1,1,0,0,0,1,0,2,1,0,1,2,0,germany,0,0,2.83,1.33,1,2,H,W,2,1
+4333,tsg 1899 hoffenheim,rb leipzig,9,8,5,5,7,8,2,1,2,2,2,1,9,8,8,8,1,0,germany,3,0,4.5,1.5,1,2,A,W,5,2
+4336,arminia bielefeld,fc koln,6,1,7,7,12,16,3,3,1,5,1,1,11,18,10,11,1,7,germany,0,0,3.0,0.83,1,3,A,L,0,2
+4338,sc freiburg,schalke 04,14,18,4,4,4,0,1,1,2,0,0,4,7,2,9,8,-2,-6,germany,0,0,1.5,0.5,1,0,A,L,0,2
+4364,holstein kiel,sv darmstadt 98,12,10,7,7,9,10,2,3,2,3,1,3,9,8,10,9,-1,-1,germany,0,0,2.0,1.5,4,2,H,D,0,0
+4365,fsv mainz,vfl wolfsburg,7,6,5,5,8,8,2,2,1,2,2,1,4,8,3,7,1,1,germany,0,-6,1.33,0.66,0,0,H,D,0,0
+4367,hannover 96,1899 hoffenheim,16,9,5,5,2,7,0,2,3,2,1,2,4,9,9,8,-5,1,germany,0,4,2.5,1.16,1,3,H,L,1,3
+4372,fc nurnberg,hannover 96,14,13,3,3,2,2,0,2,1,0,2,1,2,3,3,4,-1,-1,germany,0,0,3.33,1.5,2,0,A,L,0,1
+4375,union berlin,msv duisburg,3,18,4,4,8,0,2,2,0,0,0,4,6,0,2,7,4,-7,germany,0,0,2.66,0.5,2,2,H,D,0,0
+4385,hamburger sv am,fc st pauli am,4,10,7,7,13,12,4,1,2,4,0,3,10,12,10,14,0,-2,germany,0,0,3.16,1.16,0,0,A,D,1,1
+4390,vfl wolfsburg,borussia monchengladbach,6,5,5,5,8,10,2,2,1,3,1,1,8,10,7,7,1,3,germany,3,0,2.66,1.66,2,2,A,L,0,3
+4391,fc nurnberg,fortuna dusseldorf,14,13,5,5,5,5,1,2,2,1,2,2,4,5,10,6,-6,-1,germany,0,0,3.66,1.83,3,0,H,L,2,3
+4436,fc koln,fc ingolstadt 04,1,15,6,6,13,5,4,1,1,1,2,3,16,6,10,13,6,-7,germany,0,-4,2.33,1.33,2,1,A,D,2,2
+4461,sv sandhausen,union berlin,17,3,3,3,0,7,0,0,3,2,1,0,1,6,7,2,-6,4,germany,0,4,2.66,1.0,0,0,A,L,1,2
+4669,vfl bochum,dynamo dresden,7,3,7,7,11,12,3,2,2,4,0,3,13,10,7,7,6,3,germany,0,0,3.5,1.66,0,1,H,L,0,1
+4673,werder bremen am,fc st pauli am,3,9,10,10,18,14,5,3,2,4,2,4,15,11,9,11,6,0,germany,0,4,3.66,1.33,1,0,H,D,1,1
+4697,dynamo dresden,sv darmstadt 98,11,5,5,5,6,10,2,0,3,3,1,1,5,6,6,3,-1,3,germany,0,0,4.0,2.0,4,1,H,L,0,2
+4708,fc ingolstadt 04,fc st pauli,13,11,5,5,5,6,1,2,2,2,0,3,6,9,12,13,-6,-4,germany,0,0,2.16,1.33,0,1,H,L,0,1
+4729,spvgg unterhaching,fc wurzburger kickers,2,9,6,6,14,9,4,2,0,3,0,3,12,13,5,9,7,4,germany,0,0,3.5,1.0,0,1,H,W,3,2
+4737,viktoria koln 1904,sv rodinghausen,2,8,7,7,14,10,4,2,1,2,4,1,13,8,7,7,6,1,germany,0,0,3.16,1.33,2,0,H,W,1,0
+4745,ssv jahn regensburg,dynamo dresden,13,14,4,3,4,3,1,1,2,1,0,2,5,3,8,5,-3,-2,germany,0,5,2.5,0.83,0,2,H,L,0,1
+4762,sg sonnenhof groaspach,vfr aalen,14,17,5,5,6,4,1,3,1,1,1,3,5,5,4,9,1,-4,germany,3,0,2.33,1.33,1,1,H,L,1,4
+4766,bayern munchen am,viktoria aschaffenburg,1,9,7,8,21,11,7,0,0,3,2,3,18,12,3,12,15,0,germany,0,4,3.83,1.5,2,2,A,D,1,1
+4769,fortuna koln,fc carl zeiss jena,14,6,5,5,6,10,2,0,3,3,1,1,5,8,7,8,-2,0,germany,0,0,1.5,0.0,2,0,A,L,0,1
+4775,arminia bielefeld,ssv jahn regensburg,13,12,3,3,4,4,1,1,1,1,1,1,3,2,5,3,-2,-1,germany,0,0,3.16,1.83,5,3,A,L,2,3
+4776,msv duisburg,greuther furth,18,8,3,3,0,5,0,0,3,1,2,0,0,6,6,4,-6,2,germany,0,0,2.83,0.66,0,1,A,D,2,2
