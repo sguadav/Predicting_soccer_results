@@ -48,6 +48,10 @@ def data_clean(df):
     df['Goals_Rec_diff'] = df['Goals_Rec_1'] - df['Goal_Rec_2']
     df['Goals_Diff_diff'] = df['Goals_Diff_1'] - df['Goals_Diff_2']
 
+    # Adding the difference between match result
+    df['Diff_Goal_Match'] = df['Results_1'] - df['Results_2']
+
+
     # Columns deselection
     df = df.drop(['Votes_for_Home', 'Detail_H2H', 'Votes_for_Draw', 'Votes_for_Away', 'Weekday', 'Day', 'Month'],
                  axis=1)
@@ -58,9 +62,6 @@ def data_clean(df):
     df = df.drop(['Country_1', 'Country_2', 'Indices_home', 'Indices_draw', 'Indices_away', 'Year', 'Total_teams',
                   'Max_points'], axis=1)
     df = df.drop(['Min_points', 'Rank_1', 'Rank_2', 'Number_of_H2H_matches'], axis=1)
-    """df = df.drop(['Min_points', 'Rank_1', 'Rank_2', 'Number_of_H2H_matches', 'Goals_Scored_1',
-                  'Goals_Scored_2', 'Goals_Rec_1', 'Goals_Rec_2'], axis=1)
-    df = df.drop(['Goals_Diff_1', 'Goals_Diff_1'], axis=1)"""
 
     return df
 
