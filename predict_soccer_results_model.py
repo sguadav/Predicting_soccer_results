@@ -28,7 +28,7 @@ X_away_train, X_away_test, y_away_train, y_away_test = train_test_split(X_away, 
 print("Linear Regression")
 X_home_sm = X_home = sm.add_constant(X_home)
 model_home = sm.OLS(y_home, X_home_sm)
-model_home.fit().summary()
+print(model_home.fit().summary())
 
 lm_home = LinearRegression()
 lm_home.fit(X_home_train, y_home_train)
@@ -39,7 +39,7 @@ print(np.mean(cross_val_score(lm_home, X_home_train, y_home_train, scoring='neg_
 # Away
 X_away_sm = X_away = sm.add_constant(X_away)
 model_away = sm.OLS(y_away, X_away_sm)
-model_away.fit().summary()
+print(model_away.fit().summary())
 
 lm_away = LinearRegression()
 lm_away.fit(X_away_train, y_away_train)
