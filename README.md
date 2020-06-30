@@ -1,5 +1,5 @@
 # Predicting_soccer
-Predicting the scores of soccer matches using Data Science
+Predicting the scores of soccer matches using Supervised Learning
 
 Sources
 -
