@@ -78,6 +78,7 @@ print(np.mean(cross_val_score(rf_home, X_home_train, y_home_train, scoring='neg_
 print("\nAway")
 rf_away = RandomForestRegressor()
 print(np.mean(cross_val_score(rf_away, X_away_train, y_away_train, scoring='neg_mean_absolute_error', cv=3)))
+
 # Tune models GridsearchCV
 parameters = {'n_estimators': range(10, 300, 10), 'criterion': ('mse', 'mae'), 'max_features': ('auto', 'sqrt', 'log2')}
 
@@ -110,15 +111,15 @@ print(r2_score(y_home_test, tpred_home_lm),
       r2_score(y_home_test, tpred_home_rf),
       r2_score(y_home_test, (tpred_home_lml + tpred_home_rf)/2))
 
-pickl = {'model': gs_home.best_estimator_}
-pickle.dump(pickl, open('model_home_file' + ".p", "wb"))
+pickl_home = {'model': gs_home.best_estimator_}
+pickle.dump(pickl_home, open('model_home_file' + ".p", "wb"))
 
-file_name = "model_home_file.p"
-with open(file_name, 'rb') as pickled:
-    data = pickle.load(pickled)
-    model = data['model']
+file_name_home = "model_home_file.p"
+with open(file_name_home, 'rb') as pickled_home:
+    data_home = pickle.load(pickled_home)
+    model_home = data_home['model']
 
-print(model.predict(np.array(list(X_home_test.iloc[1, :])).reshape(1, -1))[0])
+print(model_home.predict(np.array(list(X_home_test.iloc[1, :])).reshape(1, -1))[0])
 
 list(X_home_test.iloc[1, :])
 
@@ -138,14 +139,14 @@ print(r2_score(y_away_test, tpred_away_lm),
       r2_score(y_away_test, tpred_away_rf),
       r2_score(y_away_test, (tpred_away_lml + tpred_away_rf)/2))
 
-pickl = {'model': gs_away.best_estimator_}
-pickle.dump(pickl, open('model_away_file' + ".p", "wb"))
+pickl_away = {'model': gs_away.best_estimator_}
+pickle.dump(pickl_away, open('model_away_file' + ".p", "wb"))
 
-file_name = "model_away_file.p"
-with open(file_name, 'rb') as pickled:
-    data = pickle.load(pickled)
-    model = data['model']
+file_name_away = "model_away_file.p"
+with open(file_name_away, 'rb') as pickled_away:
+    data_away = pickle.load(pickled_away)
+    model_away = data_away['model']
 
-print(model.predict(np.array(list(X_away_test.iloc[1, :])).reshape(1, -1))[0])
+print(model_away.predict(np.array(list(X_away_test.iloc[1, :])).reshape(1, -1))[0])
 
 list(X_away_test.iloc[1, :])

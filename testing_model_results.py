@@ -30,6 +30,7 @@ count_home_incorrect = 0
 count_away_correct = 0
 count_away_incorrect = 0
 
+
 print("Predict | Actual | Same or not")
 for i in range(len(y_home_test)):
     if np.round(predict_home[i]) == y_home_test[i]:
@@ -50,11 +51,28 @@ for i in range(len(y_away_test)):
 
 # Success measurement
 print("\nHome team Results")
-print("The for this model accuracy was:", round((count_home_correct / (count_home_incorrect + count_home_correct)) * 100),
+print("The accuracy for the Home model was:", round((count_home_correct / (count_home_incorrect + count_home_correct)) * 100),
       "%")
 
 print("\nAway team Results")
-print("The for this model accuracy was:", round((count_away_correct / (count_away_incorrect + count_away_correct)) * 100),
+print("The accuracy for the Away model was:", round((count_away_correct / (count_away_incorrect + count_away_correct)) * 100),
       "%")
 
 print("\nTotal Accuracy of the model: ", ((94+26)/2))
+
+print("\nOverall Game results")
+model_results = predict_away - predict_home
+actual_results = y_home_test - y_away_test
+count_result_correct = 0
+count_result_incorrect = 0
+
+for i in range(len(actual_results)):
+    if np.sign(np.round(model_results[i])) == np.sign(actual_results[i]):
+        print(math.floor(np.round(model_results[i])), "|", actual_results[i], "|", 1)
+        count_result_correct += 1
+    else:
+        print(math.floor(np.round(model_results[i])), "|", actual_results[i], "|", 0)
+        count_result_incorrect += 1
+
+print("\nThe for this model accuracy was:", round((count_result_correct / (count_result_incorrect +
+                                                                           count_result_correct)) * 100), "%")
