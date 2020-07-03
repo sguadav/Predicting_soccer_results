@@ -49,7 +49,6 @@ I used three models and evaluated them using the Mean Squared Error, to remove t
 Model Performance
 -
 **Home Team**
-
 MSE
 - Linear: 0.63
 - Lasso: 0.65
@@ -61,7 +60,6 @@ R-squared
 - Random Forest: 0.68
 
 **Away Team**
-
 MSE
 - Linear: 0.63
 - Lasso: 0.61
