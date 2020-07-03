@@ -82,9 +82,9 @@ R-squared
 Testing Results
 -
 After building the model, I decided to test the model with the data I have. I created a new file to test and compare the predicted result using my model with the actual results, counting the number of correct predictions and getting the accuracy of the model. Also, I subtracted the predicted Home Goals and the Away Goals to see the precision of the overall match result and see how the model predicts this. After doing this small program, the results were:
-- Home Team Goal Accuracy: 
-- Away Team Goal Accuracy:
-- Match Overall Result: 
+- Home Team Goal Accuracy: 46%
+- Away Team Goal Accuracy: 44%
+- Match Overall Result: 95%
 
 Results Analysis
 -
