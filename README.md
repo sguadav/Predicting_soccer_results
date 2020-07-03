@@ -37,7 +37,12 @@ EDA
 -
 I decided to take a deep look on how the most reknown variables affect the result for each team. I made pivot tables that showed some relationship as well as correlation map. Below are a few examples
 
-(pics)
+<img src='images/goals_freq_per_team.PNG' height=200>
+<img src='images/boxplot.PNG' height=150>
+<img src='images/corr_home.PNG' height=200>
+<img src='images/corr_away.PNG' height=200>
+<img src='images/h2h_home.PNG' height=200>
+<img src='images/h2h_away_pivot.PNG' height=200>
 
 Model Building
 -
@@ -73,6 +78,13 @@ R-squared
 - Linear: 0.42
 - Lasso: 0.43
 - Random Forest: 0.55
+
+Testing Results
+-
+After building the model, I decided to test the model with the data I have. I created a new file to test and compare the predicted result using my model with the actual results, counting the number of correct predictions and getting the accuracy of the model. Also, I subtracted the predicted Home Goals and the Away Goals to see the precision of the overall match result and see how the model predicts this. After doing this small program, the results were:
+- Home Team Goal Accuracy: 
+- Away Team Goal Accuracy:
+- Match Overall Result: 
 
 Results Analysis
 -
