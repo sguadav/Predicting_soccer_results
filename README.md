@@ -73,3 +73,7 @@ R-squared
 - Linear: 0.42
 - Lasso: 0.43
 - Random Forest: 0.55
+
+Results Analysis
+-
+Coming soon on my Medium
