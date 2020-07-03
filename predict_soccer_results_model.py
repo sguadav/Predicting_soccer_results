@@ -81,7 +81,7 @@ print(np.mean(cross_val_score(rf_away, X_away_train, y_away_train, scoring='neg_
 
 # Tune models GridsearchCV
 parameters = {'n_estimators': range(10, 300, 10), 'criterion': ('mse', 'mae'), 'max_features': ('auto', 'sqrt', 'log2')}
-
+# Home
 gs_home = GridSearchCV(rf_home, parameters, scoring='neg_mean_absolute_error', cv=3)
 gs_home.fit(X_home_train, y_home_train)
 
@@ -89,13 +89,15 @@ print("Gridsearch Home")
 print(gs_home.best_score_)
 print(gs_home.best_estimator_)
 
-gs_away = GridSearchCV(rf_home, parameters, scoring='neg_mean_absolute_error', cv=3)
-gs_away.fit(X_home_train, y_home_train)
+# Away
+gs_away = GridSearchCV(rf_away, parameters, scoring='neg_mean_absolute_error', cv=3)
+gs_away.fit(X_away_train, y_away_train)
 print("Gridsearch Away")
 print(gs_away.best_score_)
 print(gs_away.best_estimator_)
 
 # Test ensembles
+# Home
 tpred_home_lm = lm_home.predict(X_home_test)
 tpred_home_lml = lm_lasso_home.predict(X_home_test)
 tpred_home_rf = gs_home.best_estimator_.predict(X_home_test)
@@ -111,6 +113,7 @@ print(r2_score(y_home_test, tpred_home_lm),
       r2_score(y_home_test, tpred_home_rf),
       r2_score(y_home_test, (tpred_home_lml + tpred_home_rf)/2))
 
+# Pickle to save the model for future use
 pickl_home = {'model': gs_home.best_estimator_}
 pickle.dump(pickl_home, open('model_home_file' + ".p", "wb"))
 
@@ -123,7 +126,7 @@ print(model_home.predict(np.array(list(X_home_test.iloc[1, :])).reshape(1, -1))[
 
 list(X_home_test.iloc[1, :])
 
-# Away la
+# Away
 tpred_away_lm = lm_away.predict(X_away_test)
 tpred_away_lml = lm_lasso_away.predict(X_away_test)
 tpred_away_rf = gs_away.best_estimator_.predict(X_away_test)
@@ -139,6 +142,7 @@ print(r2_score(y_away_test, tpred_away_lm),
       r2_score(y_away_test, tpred_away_rf),
       r2_score(y_away_test, (tpred_away_lml + tpred_away_rf)/2))
 
+# Pickle to save the model for future use
 pickl_away = {'model': gs_away.best_estimator_}
 pickle.dump(pickl_away, open('model_away_file' + ".p", "wb"))
 

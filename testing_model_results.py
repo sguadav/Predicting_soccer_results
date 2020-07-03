@@ -51,17 +51,17 @@ for i in range(len(y_away_test)):
 
 # Success measurement
 print("\nHome team Results")
-print("The accuracy for the Home model was:", round((count_home_correct / (count_home_incorrect + count_home_correct)) * 100),
-      "%")
+accuracy_home = round((count_home_correct / (count_home_incorrect + count_home_correct)) * 100)
+print("The accuracy for the Home model was:", accuracy_home, "%")
 
 print("\nAway team Results")
-print("The accuracy for the Away model was:", round((count_away_correct / (count_away_incorrect + count_away_correct)) * 100),
-      "%")
+accuracy_away = round((count_away_correct / (count_away_incorrect + count_away_correct)) * 100)
+print("The accuracy for the Away model was:", accuracy_away, "%")
 
-print("\nTotal Accuracy of the model: ", ((94+26)/2))
+print("\nTotal Accuracy of the model: ", ((accuracy_away + accuracy_home)/2), "%")
 
 print("\nOverall Game results")
-model_results = predict_away - predict_home
+model_results = predict_home - predict_away
 actual_results = y_home_test - y_away_test
 count_result_correct = 0
 count_result_incorrect = 0
