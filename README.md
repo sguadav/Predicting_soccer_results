@@ -39,6 +39,7 @@ I decided to take a deep look on how the most reknown variables affect the resul
 
 <img src='images/goals_freq_per_team.PNG' height=230> <img src='images/boxplot.PNG' height=200>
 <img src='images/corr_home.PNG' height=300> <img src='images/corr_away.PNG' height=300>
+
 <img src='images/h2h_home.PNG' height=200> <img src='images/h2h_away_pivot.PNG' height=200>
 
 Model Building
