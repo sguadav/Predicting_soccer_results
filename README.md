@@ -38,7 +38,8 @@ EDA
 I decided to take a deep look on how the most reknown variables affect the result for each team. I made pivot tables that showed some relationship as well as correlation map. Below are a few examples
 
 <img src='images/goals_freq_per_team.PNG' height=250>
-<img src='images/corr_home.PNG' height=300><img src='images/corr_away.PNG' height=300>
+
+<img src='images/corr_home.PNG' height=300> <img src='images/corr_away.PNG' height=300>
 
 <img src='images/h2h_home.PNG' height=200> <img src='images/h2h_away_pivot.PNG' height=200>
 
