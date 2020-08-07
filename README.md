@@ -6,7 +6,7 @@
 Code and Resources
 -
 - Python: 3.7
-- Packages: numpy, sklearn, matplotlib, seabor, pickle
+- Packages: numpy, sklearn, matplotlib, seaborn, pickle
 - Data source: https://www.kaggle.com/analystmasters/world-soccer-live-data-feed?select=analystm_mode_1_v1.csv
 - Ken Jee Data Science Project from Scratch, guidance of step-by-step of the complete Data Science project: https://www.youtube.com/watch?v=MpF9HENQjDo&t=307s
 
